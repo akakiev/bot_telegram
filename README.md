@@ -18,7 +18,7 @@ This is a Python project using the aiogram library to develop a Telegram bot.
 1. Clone or download the repository:
 
     ```bash
-    git clone [https://github.com/Acutapugione/Team-project-1-semester](https://github.com/akakiev/bot_telegram.git)
+    git clone https://github.com/akakiev/bot_telegram.git
     ```
 
     or download the ZIP file and extract it.
